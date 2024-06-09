@@ -1,0 +1,100 @@
+body{
+    background-color: indianred;
+    }
+    h1{
+    color: white;
+    text-align: center;
+    }
+    span{
+    color: yellow;
+    }
+    .container{
+    background-color: yellow;
+    margin: 0px auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    }
+    .a1{
+    margin-left: 160px;
+    }
+    .a2{
+    margin-left: 220px;
+    }
+    .a3{
+    margin-left: 270px;
+    }
+    h2{
+    font-size: 30px;
+    }
+
+    .box{
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    }
+    .row{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
+
+    .box1{
+        width: 300px;
+        height: 200px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .box2{
+        width: 300px;
+        height: 200px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .box3{
+        width: 300px;
+        height: 200px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .box4{
+        width: 300px;
+        height: 200px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .box5{
+        width: 300px;
+        height: 200px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .i1{
+    width: 300px;
+    height: 200px;
+    }
+    .i2{
+    width: 300px;
+    height: 200px;
+    }
+    .i3{
+    width: 300px;
+    height: 200px;
+    }
+    .i4,.i5,.i6{
+    width: 300px;
+    height: 200px;
+    }
